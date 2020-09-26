@@ -1,2 +1,3 @@
 # simple_app
-simple php app build using docker-compose file
+A simple and very basic  php app build using docker-compose file
+with indivisual containers.
